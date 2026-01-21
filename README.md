@@ -24,5 +24,5 @@ Desejo ser uma desenvolvedora back-end. <br><br>
 <img align="center" alt="Vero-html" height="40" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
 <img align="center" alt="Vero-css" height="40" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
 <img align="center" alt="Vero-javascript" height="40" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img align="center" alt="Vero-csharp" height="40" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
+
 
