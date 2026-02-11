@@ -7,7 +7,7 @@
 
 ### Sou Desenvolvedora Web
 
-Eu finalizei meu curso técnico de Desenvolvimento de Sistemas. 
+Eu estou cursando o curso superior de Ciência da Computação. 
 
 Eu gosto de fazer sites que resolvam problemas. 
 
@@ -19,7 +19,6 @@ Desejo ser uma desenvolvedora back-end. <br><br>
 🌱 Meus principais interesses para aprender são: C#, Java, React e .NET. 
 
 
-<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veribeiro&layout=compact&theme=radical)<br><br>
 
 <img align="center" alt="Vero-html" height="40" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
 <img align="center" alt="Vero-css" height="40" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
