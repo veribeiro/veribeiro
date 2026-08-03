@@ -11,7 +11,7 @@ Eu estou cursando o curso superior de Ciência da Computação.
 
 Eu gosto de fazer sites que resolvam problemas. 
 
-Desejo ser uma desenvolvedora back-end. <br><br>
+Desejo ser uma desenvolvedora web. <br><br>
 
 🛠️ Tecnologias que mais uso são: HTML, CSS, JavaScript.
 
