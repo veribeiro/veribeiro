@@ -15,6 +15,7 @@ Desejo ser uma desenvolvedora web. <br><br>
 
 🛠️ Tecnologias que mais uso são: HTML, CSS, JavaScript.
 
+Tecnologias já aprendidas: linguagem C, PHP e Python.
 
 🌱 Meus principais interesses para aprender são: C#, Java, React e .NET. 
 
