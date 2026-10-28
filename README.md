@@ -2,18 +2,18 @@
 **veribeiro/veribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```
- ___      ___ _______   ________  ________  ________   ___  ________  ________     
-|\  \    /  /|\  ___ \ |\   __  \|\   __  \|\   ___  \|\  \|\   ____\|\   __  \    
-\ \  \  /  / | \   __/|\ \  \|\  \ \  \|\  \ \  \\ \  \ \  \ \  \___|\ \  \|\  \   
- \ \  \/  / / \ \  \_|/_\ \   _  _\ \  \\\  \ \  \\ \  \ \  \ \  \    \ \   __  \  
-  \ \    / /   \ \  \_|\ \ \  \\  \\ \  \\\  \ \  \\ \  \ \  \ \  \____\ \  \ \  \ 
-   \ \__/ /     \ \_______\ \__\\ _\\ \_______\ \__\\ \__\ \__\ \_______\ \__\ \__\
-    \|__|/       \|_______|\|__|\|__|\|_______|\|__| \|__|\|__|\|_______|\|__|\|__|
+#      ___      ___ _______   ________  ________  ________   ___  ________  ________          #
+#     |\  \    /  /|\  ___ \ |\   __  \|\   __  \|\   ___  \|\  \|\   ____\|\   __  \         #
+#     \ \  \  /  / | \   __/|\ \  \|\  \ \  \|\  \ \  \\ \  \ \  \ \  \___|\ \  \|\  \        #
+#      \ \  \/  / / \ \  \_|/_\ \   _  _\ \  \\\  \ \  \\ \  \ \  \ \  \    \ \   __  \       #
+#       \ \    / /   \ \  \_|\ \ \  \\  \\ \  \\\  \ \  \\ \  \ \  \ \  \____\ \  \ \  \      #
+#        \ \__/ /     \ \_______\ \__\\ _\\ \_______\ \__\\ \__\ \__\ \_______\ \__\ \__\     #
+#         \|__|/       \|_______|\|__|\|__|\|_______|\|__| \|__|\|__|\|_______|\|__|\|__|     #
    
 ```    
 
 
-# Olá! Eu sou Verônica Ribeiro👋
+# Olá! Eu sou Verônica Ribeiro 👋🏾
 
 ### Sou Estudante de Ciência da Computação
 
@@ -23,7 +23,7 @@ Eu gosto de fazer sites que resolvam problemas.
 
 Desejo ser uma estagiária de TI. <br><br>
 
-<h3>Um pouco mais sobre mim...</h3>
+<h3>A little more about me...</h3>
 
 ```css
 .veronica {
@@ -33,11 +33,11 @@ Desejo ser uma estagiária de TI. <br><br>
  challenge: "Estou criando meu portfólio com projetos práticos";
 }
 ```
-<br><br>
+<br>
 
 🛠️ Tecnologias que mais uso são: HTML, CSS, JavaScript.
 
-Tecnologias já aprendidas: linguagem C, PHP e Python.
+💡 Tecnologias já aprendidas: linguagem C, PHP e Python.
 
 🌱 Meus principais interesses para aprender são: C#, Java, React e .NET. 
 
