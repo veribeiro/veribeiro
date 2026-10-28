@@ -2,16 +2,25 @@
 **veribeiro/veribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+##################################################### 
+# _ _ ______ _ _ ______ # 
+#| | | | | | | | | | / | | \ # 
+#| |--| | | |---- | | _ | | _ | | | | # 
+#|_| __| __|_______|________|____| \_|_______ !# 
+#| | | | | | / | | \ | | | \ | | | | \ \ # 
+#| | | | | | | | | | | |__| | | | _ | | | | # 
+#|_|_|_|_|_/ \_|__|_/ |_| \_\ |_|__|_| |_|_/_/ # 
+###################################################
 
 # Olá! Eu sou Verônica Ribeiro👋
 
-### Sou Desenvolvedora Web
+### Sou Estudante de Ciência da Computação
 
 Eu estou cursando o curso superior de Ciência da Computação. 
 
 Eu gosto de fazer sites que resolvam problemas. 
 
-Desejo ser uma desenvolvedora web. <br><br>
+Desejo ser uma estagiária de TI. <br><br>
 
 🛠️ Tecnologias que mais uso são: HTML, CSS, JavaScript.
 
