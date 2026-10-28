@@ -1,15 +1,16 @@
 <!--
 **veribeiro/veribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
- ____ ____ ____ ____ ____ ____ ____ ____ ____ _________ ____ ____ 
-||B |||e |||m |||- |||V |||i |||n |||d |||o |||       |||a |||o ||
-||__|||__|||__|||__|||__|||__|||__|||__|||__|||_______|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|
- ____ ____ ____ _________ ____ ____ ____ ____ ____ ____           
-||m |||e |||u |||       |||p |||e |||r |||f |||i |||l ||          
-||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||          
-|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|          
+```
+ ___      ___ _______   ________  ________  ________   ___  ________  ________     
+|\  \    /  /|\  ___ \ |\   __  \|\   __  \|\   ___  \|\  \|\   ____\|\   __  \    
+\ \  \  /  / | \   __/|\ \  \|\  \ \  \|\  \ \  \\ \  \ \  \ \  \___|\ \  \|\  \   
+ \ \  \/  / / \ \  \_|/_\ \   _  _\ \  \\\  \ \  \\ \  \ \  \ \  \    \ \   __  \  
+  \ \    / /   \ \  \_|\ \ \  \\  \\ \  \\\  \ \  \\ \  \ \  \ \  \____\ \  \ \  \ 
+   \ \__/ /     \ \_______\ \__\\ _\\ \_______\ \__\\ \__\ \__\ \_______\ \__\ \__\
+    \|__|/       \|_______|\|__|\|__|\|_______|\|__| \|__|\|__|\|_______|\|__|\|__|
+   
+```    
 
 
 # Olá! Eu sou Verônica Ribeiro👋
@@ -21,6 +22,18 @@ Eu estou cursando o curso superior de Ciência da Computação.
 Eu gosto de fazer sites que resolvam problemas. 
 
 Desejo ser uma estagiária de TI. <br><br>
+
+<h3>Um pouco mais sobre mim...</h3>
+
+```css
+.veronica {
+ pronouns: "she" | "her";
+ code: studied(html, css, javascript, sql, python, c, php);
+ tools: (node, express, mongoDB, EJS, Arduino);
+ challenge: "Estou criando meu portfólio com projetos práticos";
+}
+```
+<br><br>
 
 🛠️ Tecnologias que mais uso são: HTML, CSS, JavaScript.
 
